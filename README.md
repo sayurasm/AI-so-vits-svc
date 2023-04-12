@@ -1,7 +1,5 @@
 # SoftVC VITS Singing Voice Conversion Fork
 
-[简体中文](README_zh_CN.md)
-
 <p align="center">
   <a href="https://github.com/34j/so-vits-svc-fork/actions/workflows/ci.yml?query=branch%3Amain">
     <img src="https://img.shields.io/github/actions/workflow/status/34j/so-vits-svc-fork/ci.yml?branch=main&label=CI&logo=github&style=flat-square" alt="CI Status" >
@@ -220,10 +218,3 @@ Commands:
   vc             Realtime inference from microphone
 ```
 
-
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<!-- prettier-ignore-end -->
