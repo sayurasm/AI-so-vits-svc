@@ -204,7 +204,7 @@ Usage: svc [OPTIONS] COMMAND [ARGS]...
 Options:
   -h, --help  Show this message and exit.
 
-Commands:
+// Commands:
   clean          Clean up files, only useful if you are using the default file structure
   infer          Inference
   onnx           Export model to onnx
