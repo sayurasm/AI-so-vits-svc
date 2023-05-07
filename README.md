@@ -215,6 +215,6 @@ Options:
   pre-split      Split audio files into multiple files
   train          Train model If D_0.pth or G_0.pth not found, automatically download from hub.
   train-cluster  Train k-means clustering
-  vc             Realtime inference from microphone
+  vc             Realtime inference from microphone.
 ```
 
