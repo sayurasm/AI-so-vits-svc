@@ -199,7 +199,7 @@ Usage: svc [OPTIONS] COMMAND [ARGS]...
   If the folder structure is followed, you DO NOT NEED TO SPECIFY model path, config path, etc.
   (The latest model will be automatically loaded.)
   To train a model, run pre-resample, pre-config, pre-hubert, train.
-  To infer a model, run infer.
+  To infer a model, run infer
 
 Options:
   -h, --help  Show this message and exit.
