@@ -1,4 +1,4 @@
-# SoftVC VITS Singing Voice Conversion Fork.
+# SoftVC VITS Singing Voice Conversion Fork
 
 <p align="center">
   <a href="https://github.com/34j/so-vits-svc-fork/actions/workflows/ci.yml?query=branch%3Amain">
